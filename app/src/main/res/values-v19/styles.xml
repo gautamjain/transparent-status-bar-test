@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="BaseAppTheme">
+        <!-- On Jelly Bean, make the status bar translucent because it
+        doesn't support 100% transparency.  -->
+        <item name="android:windowTranslucentStatus">true</item>
+    </style>
+</resources>
